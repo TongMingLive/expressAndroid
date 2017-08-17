@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">快递助手</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">订单</string>
+    <string name="title_person">我的</string>
+    <drawable name="time_correct_normal">#247fed</drawable>
+    <drawable name="time_correct_pressed">#105fff</drawable>
+</resources>
